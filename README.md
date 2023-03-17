@@ -1,4 +1,4 @@
-# docker-clust
+# docker-cluster
 
 Some steps I tried:
 Locally, I'm in the docker group so no need for sudo, also dc is alias for /usr/bin/docker, so *dc = sudo docker*
